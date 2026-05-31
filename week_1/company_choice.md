@@ -1,4 +1,5 @@
 ## Company chosen - Intuitive Surgical
+
 ### Ticker: ISRG
 
 ### About the company:
