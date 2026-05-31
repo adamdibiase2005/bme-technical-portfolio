@@ -1,4 +1,4 @@
-# BME Solotech Technical Portfolio
+# BME Technical Portfolio
 
 This repository documents my 3-month technical learning portfolio as a Biomedical Engineering student at Polytechnique Montréal.
 
