@@ -1,7 +1,6 @@
 ## Company chosen - Intuitive Surgical
 
-### Ticker
-ISRG
+### Ticker: ISRG
 
 ### What the company does in plain English
 Intuitive Surgical makes robotic surgery systems used by hospitals and surgeons. Its main product is the da Vinci surgical system. The company also sells instruments, accessories, and services connected to these systems.
