@@ -1,8 +1,6 @@
-# Sources
+## Sources
 
-## Company chosen
-
-### Intuitive Surgical
+### Company chosen - Intuitive Surgical
 
 - Company investor relations page: Intuitive Surgical Investor Relations
 - 2025 Annual Report / Form 10-K: Intuitive Surgical 2025 Annual Report
