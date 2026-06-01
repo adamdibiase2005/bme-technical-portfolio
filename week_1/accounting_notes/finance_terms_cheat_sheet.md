@@ -2,7 +2,7 @@
 
 What it means: money a company earns
 
-Formula: price ($) x quantity sold (n) = revenue ($)
+Formula: price x quantity sold= revenue
 
 Why investors care:
 Revenue shows how big a company is.
