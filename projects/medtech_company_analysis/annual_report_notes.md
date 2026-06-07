@@ -21,10 +21,8 @@ The company generates revenue mainly from:
 - Adoption of robotic-assisted surgery by hospitals and surgeons
 - Recurring use of instruments and accessories
 - Service revenue from installed systems
-- 
+  
 ## Financial Statement Locations
-
-The financial statements used for this project are from Intuitive Surgical’s 2025 Form 10-K / Annual Report.
 
 - Balance sheet: Consolidated Balance Sheets, page 91
 - Income statement: Consolidated Statements of Income, page 92
@@ -44,13 +42,6 @@ The financial statements used for this project are from Intuitive Surgical’s 2
 - Total assets
 - Total liabilities
 - Shareholders’ equity
-
-## Notes for Analysis
-- Systems revenue helps show demand for new robotic platforms.
-- Instruments and accessories revenue is important because it is linked to procedure volume.
-- Services revenue is connected to the installed base of systems.
-- Free cash flow matters because it shows how much cash the business generates after reinvestment.
-- Margins help show how profitable the company is at different levels of the income statement.
 
 ## Questions for Further Research
 - How much of revenue growth comes from new system placements versus higher procedure volume?
