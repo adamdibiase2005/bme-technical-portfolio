@@ -21,12 +21,17 @@ The company generates revenue mainly from:
 - Adoption of robotic-assisted surgery by hospitals and surgeons
 - Recurring use of instruments and accessories
 - Service revenue from installed systems
-
+- 
 ## Financial Statement Locations
-- Income statement: Consolidated Statements of Operations
-- Balance sheet: Consolidated Balance Sheets
-- Cash flow statement: Consolidated Statements of Cash Flows
 
+The financial statements used for this project are from Intuitive Surgical’s 2025 Form 10-K / Annual Report.
+
+- Balance sheet: Consolidated Balance Sheets, page 91
+- Income statement: Consolidated Statements of Income, page 92
+- Statement of comprehensive income: Consolidated Statements of Comprehensive Income, page 93
+- Stockholders’ equity: Consolidated Statements of Stockholders’ Equity, page 94
+- Cash flow statement: Consolidated Statements of Cash Flows, page 95
+  
 ## Key Metrics to Extract
 - Revenue
 - Gross profit
