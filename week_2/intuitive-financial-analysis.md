@@ -19,3 +19,11 @@ Cash and cash equivalents increased from $2.0B in 2024 to $3.4B in 2025. The com
 ## Main Takeaway
 
 Intuitive Surgical looks like a high-quality medtech company with strong revenue growth, high margins, rising free cash flow, and a strong balance sheet.
+
+## Chart Takeaways
+
+The revenue chart shows steady growth from 2023 to 2025.
+
+The net income chart shows that profitability increased each year.
+
+The free cash flow chart shows the biggest improvement, especially in 2025, when free cash flow increased significantly because operating cash flow rose and capital expenditures fell.
