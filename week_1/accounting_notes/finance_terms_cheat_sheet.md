@@ -95,10 +95,10 @@ Why investors care:
 Answers: is the company actually producing cash?
 
 
-## Capex
+## Capex (Capital Expenditures)
 
 What it means: 
-Capital Expenditures: the money a company spends on big long term investments that will benefit them for years (medtech ex: R&D lab or machinery)
+The money a company spends on big long term investments that will benefit them for years (medtech ex: R&D lab or machinery)
 
 Why investors care: 
 It shows how much a company must reinvest to sustain or grow. High capex means growth but reduces free cash flow
