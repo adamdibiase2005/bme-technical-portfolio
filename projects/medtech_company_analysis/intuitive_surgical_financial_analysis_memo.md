@@ -26,7 +26,7 @@ Free cash flow margin improved from 10.5% in 2023 to 24.7% in 2025. This is a st
 
 ## Balance Sheet / Debt Context
 
-Intuitive Surgical appears to have a strong balance sheet. I did not identify a traditional interest-bearing debt line, long-term debt line, borrowings line, or notes payable line in the annual report, so I treated total debt as 0 for this beginner analysis. However, I should verify the balance sheet notes before presenting this as a serious investment conclusion.
+Intuitive Surgical appears to have a strong balance sheet. In my review of the balance sheet, I did not identify a traditional interest-bearing debt line such as long-term debt, borrowings, notes payable, or bonds payable. For this beginner analysis, I treated total debt as 0. However, I would verify the financial statement notes before making a formal investment conclusion, especially because companies can have other obligations such as leases or purchase commitments.
 
 ## Beginner Investor Takeaways
 
