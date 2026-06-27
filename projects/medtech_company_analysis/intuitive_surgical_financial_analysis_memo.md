@@ -28,17 +28,11 @@ Free cash flow margin improved from 10.5% in 2023 to 24.7% in 2025. This is a st
 
 Intuitive Surgical appears to have a strong balance sheet. I did not identify a traditional interest-bearing debt line, long-term debt line, borrowings line, or notes payable line in the annual report, so I treated total debt as 0 for this beginner analysis. However, I should verify the balance sheet notes before presenting this as a serious investment conclusion.
 
-## BME Connection
-
-This company connects directly to biomedical engineering because its business depends on robotic surgery systems, medical device design, clinical adoption, hospital purchasing, procedure volume, and healthcare technology.
-
 ## Beginner Investor Takeaways
 
 Intuitive Surgical appears to be a high-quality medtech company with strong revenue growth, high margins, improving profitability, and strong free cash flow generation. The company’s recurring revenue from instruments, accessories, services, and leases makes the business model especially attractive.
 
 ## Risks or Questions
-
-- What is the correct 2023 operating income figure?
 - How sustainable is the lower 2025 capex level?
 - How much future growth will come from procedure growth versus new system placements?
 - Could new product launch costs, tariffs, or manufacturing expansion pressure margins?
