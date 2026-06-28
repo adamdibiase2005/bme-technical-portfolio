@@ -38,12 +38,6 @@ Intuitive Surgical appears to be a high-quality medtech company with strong reve
 - Could new product launch costs, tariffs, or manufacturing expansion pressure margins?
 - Should operating lease liabilities be considered when discussing debt?
 
-## Sources
-
-- Intuitive Surgical annual report / Form 10-K
-- Intuitive Surgical investor relations materials
-- My Excel workbook: intuitive_surgical_financial_summary.xlsx
-
 ## What I Would Improve Next
 
 Next, I would verify missing 2023 values, add segment-level revenue analysis, compare Intuitive Surgical to medtech peers, and eventually build a simple valuation snapshot.
