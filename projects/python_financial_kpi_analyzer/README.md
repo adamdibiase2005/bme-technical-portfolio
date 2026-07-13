@@ -38,6 +38,6 @@ python_financial_kpi_analyzer/
 ├── src/
 │   └── analyzer.py
 └── outputs/
-    ├── intuitive_surgical_kpi_summary.csv
+    ├── surgical_kpi_summary.csv
     ├── stryker_kpi_summary.csv
     └── charts/
