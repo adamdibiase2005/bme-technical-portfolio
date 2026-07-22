@@ -11,7 +11,7 @@ current_angle = starting_angle
 target_angle = 50
 
 time_step = 0.1
-Kp = 0.5
+Kp = 0.1
 max_command = 12
 sensor_noise_std = 0.3
 
@@ -23,7 +23,6 @@ true_angles = []
 measured_angles = []
 errors = []
 commands = []
-
 
 while not (target_angle - 1 <= current_angle <= target_angle + 1):
 
